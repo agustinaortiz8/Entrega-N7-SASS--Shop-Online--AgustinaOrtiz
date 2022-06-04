@@ -88,6 +88,9 @@ nav {
             display: block;
             font-size: larger;
             color: black;
+            &:hover {
+                background: #C9A836;
+            }
 
             
         }
@@ -98,11 +101,6 @@ nav {
 
 
 
-
-}
-
-.navMenu li a:hover {
-    background: #C9A836;
 
 }
 

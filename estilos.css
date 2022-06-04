@@ -93,7 +93,7 @@ nav li a {
   color: black;
 }
 
-.navMenu li a:hover {
+nav li a:hover {
   background: #C9A836;
 }
 
